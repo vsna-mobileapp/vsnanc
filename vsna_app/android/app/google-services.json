@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "112980421751",
+    "firebase_url": "https://vsnamobileapp.firebaseio.com",
+    "project_id": "vsnamobileapp",
+    "storage_bucket": "vsnamobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112980421751:android:aff0a449dc10875b6c6a72",
+        "android_client_info": {
+          "package_name": "org.vsnanc.vsna_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112980421751-mflu5qt4sh9gvgk2tmseav4hlmios1e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqSVcYmSMWu5TD6mc1q0CbLODMoEd1WoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112980421751-mflu5qt4sh9gvgk2tmseav4hlmios1e0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
